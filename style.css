@@ -72,7 +72,10 @@ p {
 
 .iconSocial{
     height: 30px;
-    padding-right: 8px;
+}
+
+.iconSocial:hover{
+    cursor: pointer;
 }
 
 .tam{
