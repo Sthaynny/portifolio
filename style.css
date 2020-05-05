@@ -71,10 +71,10 @@ p {
 }
 
 .iconSocial{
-    height: 30px !important;
+    height: 30px;
     padding-right: 8px;
 }
 
 .tam{
-    height: 95vh !important;
+    height: 95vh;
 }
