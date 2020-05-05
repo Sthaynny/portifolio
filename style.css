@@ -69,3 +69,12 @@ p {
     padding:0px; 
     margin:0px;
 }
+
+.iconSocial{
+    height: 30px !important;
+    padding-right: 8px;
+}
+
+.tam{
+    height: 95vh !important;
+}
