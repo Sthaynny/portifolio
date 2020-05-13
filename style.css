@@ -72,12 +72,30 @@ p {
 
 .iconSocial{
     height: 30px;
+    transition-duration: 1s;
 }
 
 .iconSocial:hover{
     cursor: pointer;
+    height: 40px;
 }
 
 .tam{
     height: 95vh;
 }
+
+.tamAllProjects{
+    height: 30px;
+    color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
